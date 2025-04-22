@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013371683000",
+    "project_id": "fitbody-cf071",
+    "storage_bucket": "fitbody-cf071.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013371683000:android:51636e0e1dd1cdd1c7b44d",
+        "android_client_info": {
+          "package_name": "com.example.fitbody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013371683000-i5plu2e5judvi93rt3iuehtkeh3rb9a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitbody",
+            "certificate_hash": "3f938a737c5a69717209b280253d665992279bce"
+          }
+        },
+        {
+          "client_id": "1013371683000-qopeq6b6drumfbm7dqopesia3eon3ivm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Vw3lPbndaT__ACicHTdSHrCgMux9iI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013371683000-qopeq6b6drumfbm7dqopesia3eon3ivm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

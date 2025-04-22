@@ -1,0 +1,67 @@
+name: fitbody
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.8.0
+  responsive_sizer: ^3.3.1
+  responsive_grid_list: ^1.4.0
+  responsive_builder: ^0.7.1
+  pinput: ^5.0.0
+  dotted_line: ^3.2.3
+  introduction_screen: ^3.0.1
+  cupertino_icons: ^1.0.8
+  smooth_page_indicator: ^1.2.0+3
+  image_picker: ^1.1.2
+  video_player: ^2.9.2
+  provider: ^6.1.2
+  calendar_date_picker2: ^1.1.8
+  fl_chart: ^0.70.2
+  syncfusion_flutter_charts: ^28.2.4+1
+  firebase_core: ^3.12.1
+  firebase_auth: ^5.5.1
+  flutter_spinkit: ^5.2.1
+  fluttertoast: ^8.2.12
+  cloud_firestore: ^5.6.3
+  get: ^4.7.2
+  shared_preferences: ^2.5.2
+  google_sign_in: ^6.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+  icons_launcher: ^3.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logos/Logoone.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logos/
+    - assets/images/onboarding/
+    - assets/images/setup/
+    - assets/videos/
+    - assets/images/home/
+    - assets/images/profile/
+    - assets/images/contactus/
+    - assets/images/search/
+    - assets/images/favorites/
+    - assets/images/workout/
+    - assets/images/mealideas/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
